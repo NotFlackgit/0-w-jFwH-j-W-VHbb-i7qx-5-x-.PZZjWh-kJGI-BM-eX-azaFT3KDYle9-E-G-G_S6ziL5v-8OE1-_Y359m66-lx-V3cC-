@@ -1,5 +1,4 @@
 pytelegrambotapi
 aiohttp
 asyncio
-requests
 threading
